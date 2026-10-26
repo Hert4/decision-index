@@ -1,0 +1,19 @@
+submissions/README.md
+  s_45018a3b481322::t_dcda0b42cdb81e 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5fffc2db6daead9312d24a4f6d9ae026d927d4b8",
+  "prompts": {},
+  "sessions": {
+    "s_45018a3b481322": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f3581a2a-31f7-44d3-8352-baed841a2fb7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "tmduc3 <tmduc3@rd.misa.com.vn>"
+    }
+  }
+}
