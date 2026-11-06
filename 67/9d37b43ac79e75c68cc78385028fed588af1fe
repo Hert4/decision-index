@@ -1,0 +1,14 @@
+submissions/README.md
+  h_e0622de1f5d9ce 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "679d37b43ac79e75c68cc78385028fed588af1fe",
+  "prompts": {},
+  "humans": {
+    "h_e0622de1f5d9ce": {
+      "author": "tmduc3 <tmduc3@rd.misa.com.vn>"
+    }
+  }
+}
